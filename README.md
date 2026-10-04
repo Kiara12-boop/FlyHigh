@@ -1,8 +1,8 @@
 # Judul
-Dino-Blast
+Archerfish's Calculations
 
 # Deskripsi
-Temani dino sigma menempuh perjalanan melewati berbagai rintangan yang penuh ledakan
+Jalani petualangan dengan ikan Archerfish dalam hari - harinya
 
 # Author
 - 412025012 Kiara Junaedy
